@@ -4,4 +4,4 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        return s[-1::-1] # a list object with slice [start:stop:step]
+        return s[::-1] # a list object with slice [start:stop:step]
