@@ -1,2 +1,2 @@
 # LeetCodeOJ
-My code in LeetCode
+Here stores my codes in LeetCode Online Judge.
