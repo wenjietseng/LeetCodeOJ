@@ -1,2 +1,2 @@
 # LeetCodeOJ
-This repository stores my codes in LeetCode Online Judge.
+This repository stores my submissions in LeetCode Online Judge.
